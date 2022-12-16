@@ -5,6 +5,7 @@
 ### 소개
 > + 이름 : 임형준
 > + 학과 : 컴퓨터공학전공
+> + 학번 : 2018108275
 > + 거주지 : 제주도
 > + 이메일 : grand2181@gmail.com
 > + 깃허브 : [https://github.com/lh99j](https://github.com/lh99j)
